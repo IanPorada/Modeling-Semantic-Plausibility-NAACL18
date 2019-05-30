@@ -1270,7 +1270,7 @@ monkey pet rabbit
 bear pet dolphin
 arrow pierce paper
 pin pierce cheese
-scissor pierce board
+scissors pierce board
 pen pierce shirt
 hand pierce leaf
 boy pluck apple
@@ -1283,7 +1283,7 @@ chef poison dog
 water poison bush
 grape poison bird
 air poison rabbit
-scissor poke finger
+scissors poke finger
 man poke bear
 spatula poke baby
 needle poke rice
