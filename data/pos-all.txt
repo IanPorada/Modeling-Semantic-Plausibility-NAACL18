@@ -774,7 +774,6 @@ house absorb rain
 desert absorb water
 laptop absorb oil
 cream attach sticker
-robot attach tape
 pebbles attach sticker
 chair attach note
 girl attach letter
@@ -864,7 +863,6 @@ girl choke dog
 dentist choke clown
 elephant choke policeman
 axe chop chair
-knife chop tree
 girl chop monkey
 dentist chop mud
 clown chop cream
@@ -908,11 +906,9 @@ policeman cook dolphin
 stove cook monkey
 spatula cook egg
 clown cook monkey
-ac cool water
 freezer cool water
 air cool skyscraper
 ice cool girl
-ac cool chair
 girl count rice
 chef count beans
 laptop count cup
@@ -931,7 +927,6 @@ pebbles crash ant
 infant create dust
 chef create table
 girl create skyscraper
-sand create house
 girl create infant
 girl crop paper
 policeman crop tree
@@ -945,7 +940,6 @@ infant crush worm
 bike crush bush
 house curb bike
 stairs curb scooter
-rock curb bike
 tree curb train
 lion curb door
 girl cut grape
@@ -1015,8 +1009,6 @@ dog eat rabbit
 worm eat infant
 pipe ejaculate cream
 tube ejaculate mud
-bottle ejaculate gravy
-tube ejaculate water
 bottle ejaculate water
 cat enter box
 girl enter house
@@ -1028,7 +1020,6 @@ eraser erase rust
 shovel erase mud
 scissors erase text
 cloth erase cream
-man erect bug
 man erect tree
 girl erect wall
 dentist erect cake
@@ -1053,7 +1044,6 @@ girl feed dog
 cake feed clown
 mud feed worm
 water feed horse
-water fill cup
 monkey fill bucket
 mud fill sink
 cream fill tub
@@ -1427,7 +1417,6 @@ hose squirt milk
 faucet squirt mud
 tube squirt cream
 mouth squirt sand
-faucet squirt water
 man steal crab
 baboon steal cake
 monkey steal shirt
@@ -1499,7 +1488,6 @@ horse tug dumbbell
 elephant tug bus
 butterfly tug leaf
 pipe vent vapor
-room vent smoke
 boat vent air
 room vent oxygen
 skyscraper vent smoke

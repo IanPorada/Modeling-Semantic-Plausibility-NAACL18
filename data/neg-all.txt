@@ -914,9 +914,7 @@ spatula cool table
 bus cool air
 house cool bike
 man count mud
-woman count air
 student count cream
-calculator count water
 infant count rust
 casket cover lake
 pillow cover elephant
@@ -1115,7 +1113,6 @@ gorilla grab wind
 girl grab stairs
 child grasp smoke
 gorilla grasp water
-hand grasp oil
 horse grasp elephant
 woman grasp skyscraper
 man grip elephant
@@ -1445,7 +1442,6 @@ cat strike lake
 pebbles strike cloud
 man stroke atom
 hand stroke cloud
-finger stroke vapor
 ant stroke cream
 elephant stroke pea
 man stomp bear
@@ -1519,7 +1515,6 @@ policeman wear water
 child wear pumpkin
 butterfly wear carpet
 oil wet oil
-oil wet milk
 milk wet pond
 vapor wet ocean
 oil wet oxygen
@@ -1527,7 +1522,6 @@ dog whisk grape
 infant whisk sauce
 child whisk spatula
 butterfly whisk rock
-woman whisk air
 man wrestle butterfly
 worm wrestle student
 cat wrestle pin
